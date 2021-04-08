@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+#My favourites
+* Italian food
+  * pizza
+  * lasagne
+  * spaghetti
+* Netflix
+* My bed
